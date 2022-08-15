@@ -1,0 +1,14 @@
+.img-propaganda {
+    width: 100%;
+    max-height: 250px;
+    border: 10px solid black;
+    box-shadow: 20px 20px 20px black;
+    box-sizing: border-box;
+    transition: 3s;
+    overflow: hidden;
+}
+
+.img-propaganda:hover {
+    box-shadow: -20px 20px 20px black;
+    border: 10px solid white;
+}
