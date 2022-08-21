@@ -18,3 +18,7 @@ footer .info {
 footer .info a {
     color: white;
 }
+
+.link-name {
+    text-decoration: none;    
+}
