@@ -22,6 +22,10 @@
     color: white;
 }
 
+h2 {
+    text-align: center;
+}
+
 .creditos a {
     text-decoration: none;
     color: floralwhite;
