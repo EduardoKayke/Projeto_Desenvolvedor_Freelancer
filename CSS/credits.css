@@ -1,33 +1,22 @@
-.body-creditos {
+.body-credits {
     margin: 0;
     padding: 0;
     width: 100%;
     height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
     box-sizing: border-box;
+    flex-direction: column;
     background: #05595B;
     font-family: monospace;
 }
 
-.creditos {
+.credits {
     width: 70%;
     height: 70%;
-    display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
     color: white;
-    text-align: center;
 }
 
-h2 {
-    text-align: center;
-}
-
-.creditos a {
+.credits a {
     text-decoration: none;
     color: floralwhite;
 }

@@ -1,8 +1,10 @@
 @import url("aside.css");
 @import url("button.css");
 @import url("card.css");
+@import url("center.css");
 @import url("color.css");
 @import url("contato.css");
+@import url("credits.css"); /* refatorado */
 @import url("footer.css");
 @import url("grid.css");
 @import url("header.css");
