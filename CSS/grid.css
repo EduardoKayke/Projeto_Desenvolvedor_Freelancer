@@ -95,7 +95,7 @@ main #servicos {
         display: grid;
         min-height: 100vh;
         grid-template-columns:1fr;
-        grid-template-rows: 350px auto 200px auto auto 600px 120px;
+        grid-template-rows: 350px auto 200px auto auto 600px 60px;
         grid-template-areas: 
         'header'
         'section'
@@ -123,7 +123,7 @@ main #servicos {
 @media(max-width: 750px) {
     body {
         grid-template-columns: 1fr;
-        grid-template-rows: 250px auto 200px auto auto 600px 120px;
+        grid-template-rows: 250px auto 200px auto auto 600px 60px;
         grid-template-areas: 
         'header'
         'section'
@@ -151,7 +151,7 @@ main #servicos {
 @media(max-width: 700px) {
     body {
         grid-template-columns: 1fr;
-        grid-template-rows: 250px auto 200px auto auto 600px 120px;
+        grid-template-rows: 250px auto 200px auto auto 600px 60px;
         grid-template-areas: 
         'header'
         'section'
@@ -179,7 +179,7 @@ main #servicos {
 @media(max-width: 500px) {
     body {
         grid-template-columns: 1fr;
-        grid-template-rows: 250px auto 200px auto auto 600px 120px;
+        grid-template-rows: 250px auto 200px auto auto 600px 60px;
         grid-template-areas: 
         'header'
         'section'
@@ -207,7 +207,7 @@ main #servicos {
 @media(max-width: 280px) {
     body {
         grid-template-columns: 1fr;
-        grid-template-rows: 250px auto 250px auto auto 600px 120px;
+        grid-template-rows: 250px auto 250px auto auto 600px 60px;
         grid-template-areas: 
         'header'
         'section'
