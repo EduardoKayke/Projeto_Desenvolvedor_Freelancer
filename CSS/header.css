@@ -1,22 +1,22 @@
 /* Logo */
-.logo-principal {
+.icon-freelancer {
     max-height: 250px;
 }
 
 @media(max-width: 950px){
-    .logo-principal {
+    .icon-freelancer {
         height: 200px;
     }
 }
 
 @media(max-width: 700px){
-    .logo-principal {
+    .icon-freelancer {
         height: 150px;
     }
 }
 
 @media(max-width: 300px){
-    .logo-principal {
+    .icon-freelancer {
         height: 100px;
     }
 }
@@ -30,7 +30,7 @@ header {
     z-index: 0;
 }
 
-header .video-principal {
+header .header-video {
     position: absolute;
     opacity: 50%;
     left: 50%;
@@ -42,7 +42,7 @@ header .video-principal {
     z-index: -1;
 }
 
-header .video-principal.portrait {
+header .header-video.portrait {
     width: 100%;
     height: auto;
 }
@@ -50,9 +50,6 @@ header .video-principal.portrait {
 nav {
     grid-area: nav;
     width: 90vw;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     flex-direction: column;
 }
 
@@ -61,7 +58,6 @@ header .menu {
     padding: 5px;
     border-top: 2px solid white;
     border-bottom: 2px solid white;
-    text-align: center;
 }
 
 header .menu:hover {
@@ -88,7 +84,7 @@ header .menu a:hover{
 /* Responsividade do .video-principal e da font-size do menu */
 
 @media(max-width: 500px){
-    header .video-principal {
+    header .header-video {
         left: 50%;
         top: 50%;
         width: auto;
