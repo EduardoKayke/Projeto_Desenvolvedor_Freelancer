@@ -24,4 +24,4 @@ __OBS: Existem muitos efeitos ao passar o mouse nas funcionalidades do site. As 
 - Pronto, a aplicação está rodando!
 
 ## Imagens do Projeto
-![Página inteira](source/image_readme/site.png)
+![Página inteira](source/image_readme/pagina_completa.jpg)
