@@ -6,7 +6,9 @@ O Sistema criado é original e possui [MIT License](https://github.com/EduardoKa
 
 
 ### O que a aplicação faz?
-Desenvolvedor Freelancer é um site. Objetivo de oferecer os serviços de desenvolvimento web e freelancer com formulário para contato.
+Desenvolvedor Freelancer é um site. Objetivo de oferecer os serviços de desenvolvimento web e freelancer com formulário para contato. A aplicação está 100% responsiva.
+
+__OBS: Existem muitos efeitos ao passar o mouse nas funcionalidades do site. As fotos abaixo não mostram os efeitos por completo.__
     
 ### Ferramentas utilizadas.
 - __HTML__
@@ -18,8 +20,8 @@ Desenvolvedor Freelancer é um site. Objetivo de oferecer os serviços de desenv
     https://github.com/EduardoKayke/Projeto_Desenvolvedor_Freelancer.git
     ```
 - Ou realize o download do repositório clicando [aqui](https://github.com/EduardoKayke/Projeto_Desenvolvedor_Freelancer/archive/refs/heads/main.zip).
-- Inicialize o arquivo index.html clicando duas vezes, ele vai abrir no navegador.
+- Inicialize o arquivo index.html clicando duas vezes. O site vai abrir no navegador.
 - Pronto, a aplicação está rodando!
 
 ## Imagens do Projeto
-![Página inteira]()
+![Página inteira](source/image_readme/site.png)
